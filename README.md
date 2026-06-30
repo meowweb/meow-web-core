@@ -1,7 +1,7 @@
 # How to add a meowweb page?
 To add a meowweb page, you have to first do a pull request to the `index` folder.
 
-The pull request must have a txt file, it must be named the same as the title of your webpage.
+The pull request must have a json file, it must be named the same as the title of your webpage.
 Follow this template that states how the txt file must be:
 
 ```json
