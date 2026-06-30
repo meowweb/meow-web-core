@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Huopa Youtube Client</title>
+    <link rel="stylesheet" href="https://raw.githubusercontent.com/allucat1000/Huopa-YTClient/refs/heads/main/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100..1000&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div id="topbar">
+        <input id="searchInput" placeholder="Search">
+    </div>
+    <div id="contentDiv"></div>
+    <script src="https://raw.githubusercontent.com/allucat1000/Huopa-YTClient/refs/heads/main/main.js" defer></script>
+</body>
+</html>
